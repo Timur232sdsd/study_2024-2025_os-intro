@@ -2,7 +2,7 @@
 ## Front matter
 title: "Отчёт по лабораторной работе №2"
 subtitle: "Простейший вариант"
-author: "Тимур Риантвоич Каримов"
+author: "Тимур Ринатович Каримов"
 
 ## Generic otions
 lang: ru-RU
